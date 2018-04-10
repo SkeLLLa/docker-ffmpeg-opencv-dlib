@@ -2,6 +2,10 @@
 
 Docker image with compiled OpenCV, Dlib and ffmpeg
 
+[![](https://images.microbadger.com/badges/version/m03geek/ffmpeg-opencv-dlib:alpine.svg)](https://microbadger.com/images/m03geek/ffmpeg-opencv-dlib:alpine "version")[![](https://images.microbadger.com/badges/image/m03geek/ffmpeg-opencv-dlib:alpine.svg)](https://microbadger.com/images/m03geek/ffmpeg-opencv-dlib:alpine "layers")
+
+[![](https://images.microbadger.com/badges/version/m03geek/ffmpeg-opencv-dlib:stretch.svg)](https://microbadger.com/images/m03geek/ffmpeg-opencv-dlib:stretch "version")[![](https://images.microbadger.com/badges/image/m03geek/ffmpeg-opencv-dlib:stretch.svg)](https://microbadger.com/images/m03geek/ffmpeg-opencv-dlib:stretch "layers")
+
 Based on [ffmpeg-opencv image](https://hub.docker.com/r/m03geek/ffmpeg-opencv/)
 
 # Dlib
